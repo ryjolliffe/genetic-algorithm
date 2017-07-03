@@ -1,0 +1,12 @@
+C:\Users\Ryan\Desktop\WINTEC\SemB\AssignmentAI\AssignmentAI\bin\Debug\AssignmentAI.exe.config
+C:\Users\Ryan\Desktop\WINTEC\SemB\AssignmentAI\AssignmentAI\bin\Debug\AssignmentAI.exe
+C:\Users\Ryan\Desktop\WINTEC\SemB\AssignmentAI\AssignmentAI\bin\Debug\AssignmentAI.pdb
+C:\Users\Ryan\Desktop\WINTEC\SemB\AssignmentAI\AssignmentAI\obj\Debug\AssignmentAI.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\WINTEC\SemB\AssignmentAI\AssignmentAI\obj\Debug\AssignmentAI.exe
+C:\Users\Ryan\Desktop\WINTEC\SemB\AssignmentAI\AssignmentAI\obj\Debug\AssignmentAI.pdb
+C:\Users\Ryan\Dropbox\AssignmentAI\AssignmentAI\bin\Debug\AssignmentAI.exe.config
+C:\Users\Ryan\Dropbox\AssignmentAI\AssignmentAI\obj\Debug\AssignmentAI.exe
+C:\Users\Ryan\Dropbox\AssignmentAI\AssignmentAI\obj\Debug\AssignmentAI.pdb
+C:\Users\Ryan\Dropbox\AssignmentAI\AssignmentAI\bin\Debug\AssignmentAI.exe
+C:\Users\Ryan\Dropbox\AssignmentAI\AssignmentAI\bin\Debug\AssignmentAI.pdb
+C:\Users\Ryan\Dropbox\AssignmentAI\AssignmentAI\obj\Debug\AssignmentAI.csprojResolveAssemblyReference.cache

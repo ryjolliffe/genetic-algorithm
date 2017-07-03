@@ -1,0 +1,53 @@
+cornflakes, 0.50
+milk, 1
+sugar, 0.1
+mince, 2
+orange juice, 0.4
+blackcurrent juice, 0.6
+frozen peas, 0.2
+carrot, 0.1
+cheese, 0.6
+pasta, 0.3
+onion, 0.1
+bread, 3
+garlic, 0.1
+margarine, 3
+jam, 2.50
+oats, 2
+salt, 3
+muesli, 0.8
+lettuce, 3
+beans, 0.9
+ham, 5 
+noodles, 1
+apple, 0.5
+banana, 0.6
+pastry, 2
+chicken, 6
+apricot, 0.5
+bacon, 5
+weetbix, 0.1
+coffee, 0.1
+avocado, 3
+crackers, 0.1
+pepper, 3
+tomato, 2
+chicken breast, 4
+curry sauce, 3
+rice, 0.3
+potato, 0.5
+kumara, 0.5
+carrot, 0.2
+pumpkin, 1
+pear, 0.6
+orange, 0.4
+yoghurt, 0.9
+ice cream, 2
+steak, 4
+coco pops, 0.1
+tea, 0.1
+butter, 0.5
+egg, 0.5
+mixed vegetables, 0.5
+chicken nuggets, 1.5
+fries, 1.5

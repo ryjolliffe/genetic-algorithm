@@ -1,0 +1,97 @@
+cornflakes, cornflakes, 1
+cornflakes, milk, 1
+cornflakes, sugar, 1
+orange juice, orange juice, 1
+spaghetti bolognaise, mince, 1
+spaghetti bolognaise, carrot, 1
+spaghetti bolognaise, cheese, 1
+spaghetti bolognaise, pasta, 2
+spaghetti bolognaise, onion, 1
+spaghetti bolognaise, garlic, 1
+spaghetti bolognaise, frozen peas, 1
+blackcurrent juice, blackcurrent juice, 1
+toast, bread, 0.01
+toast, margarine, 0.01
+toast, jam, 0.01
+porridge, oats, 0.05
+porridge, salt, 0.001
+porridge, milk, 0.1
+muesli, muesli, 0.1
+cheese sandwich, bread, 0.02
+cheese sandwich, margarine, 0.02
+cheese sandwich, cheese, 0.05
+cheese sandwich, lettuce, 0.05
+beans on toast, beans, 1
+beans on toast, bread, 0.01
+ham sandwich, bread, 0.02
+ham sandwich, margarine, 0.02
+ham sandwich, ham, 0.2
+ham sandwich, lettuce, 0.05
+noodles, noodles, 1
+apple, apple, 1
+banana, banana, 1
+orange, orange, 1
+pear, pear, 1
+yoghurt, yoghurt, 1
+ice cream, ice cream, 1
+salad, lettuce, 2
+salad, carrot, 1
+steak, steak, 1
+steak, salt, 1
+steak, onion, 1
+soup, frozen peas, 0.5
+soup, carrot, 1
+soup, salt, 1
+smoothie, yoghurt, 0.2
+smoothie, banana, 1
+smoothie, apricot, 1
+mince pie, mince, 0.5
+mince pie, pastry, 1
+mince pie, cheese, 0.1
+crumbed chicken, chicken, 0.4
+coco pops, coco pops, 2
+coco pops, milk, 1
+tea, tea bag, 1
+tea, milk, 0.5
+grilled cheese sandwich, bread, 2
+grilled cheese sandwich, cheese, 0.05
+grilled cheese sandwich, butter, 0.05
+chicken nuggets, chicken nuggets, 1
+fries, fries, 1
+egg fried rice, rice, 1
+egg fried rice, egg, 1
+egg fried rice, mixed vegetables, 1
+egg fried rice, salt, 1
+crumbed chicken, bread, 0.1
+crumbed chicken, egg, 1
+crumbed chicken, milk, 0.2 
+apricot, apricot, 1
+bacon & eggs, bacon, 0.3
+bacon & eggs, egg, 1
+bacon & eggs, bread, 0.1
+weetbix, weetbix, 2
+weetbix, milk, 1
+weetbix, sugar, 1
+coffee, coffee, 1
+coffee, milk, 0.5
+avocado crackers, avocado, 0.5
+avocado crackers, crackers, 5
+avocado crackers, salt, 0.0005
+avocado crackers, pepper, 0.0005
+avocado crackers, tomato, 0.5
+curry, chicken breast, 1
+curry, curry sauce, 1
+rice, rice, 1
+roast vegetables, potato, 2
+roast vegetables, kumara, 1
+roast vegetables, carrot, 1
+roast vegetables, pumpkin, 0.5
+feast, potato, 2
+feast, kumara, 2
+feast, carrot, 2
+feast, pumpkin, 0.5
+feast, bacon, 2
+feast, steak, 4
+feast, rice, 2
+feast, chicken breast, 5
+feast, egg, 5

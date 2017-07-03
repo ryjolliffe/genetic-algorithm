@@ -1,0 +1,64 @@
+soup, lunch, 2
+soup, dinner, 1
+spaghetti bolognaise, dinner, 2
+orange juice, breakfast, 1
+blackcurrent juice, breakfast, 1
+toast, breakfast, 2
+porridge, breakfast, 2
+cornflakes, breakfast, 2
+muesli, breakfast, 2
+cheese sandwich, lunch, 1
+beans on toast, lunch, 1
+ham sandwich, lunch, 1
+ham sandwich, lunch, 3
+noodles, lunch, 1
+apple, lunch, 2
+apple, dinner, 2
+banana, lunch, 2
+banana, dinner, 2
+orange, lunch, 2
+orange, dinner, 2
+pear, lunch, 3
+pear, dinner, 4
+yoghurt, lunch, 2
+yoghurt, dinner, 3
+smoothie, lunch, 1
+smoothie, dinner, 4
+smoothie, breakfast, 1
+mince pie, lunch, 1
+mince pie, dinner, 2
+crumbed chicken, lunch, 2
+crumbed chicken, dinner, 2
+apricot, lunch, 1
+apricot, lunch, 2
+apricot, dinner, 4
+bacon & eggs, breakfast, 2
+bacon & eggs, dinner, 2
+bacon & eggs, dinner, 3
+ice cream, dinner, 4
+salad, dinner, 3
+steak, dinner, 2
+weetbix, breakfast, 1
+coffee, breakfast, 1
+coffee, lunch, 1
+coffee, dinner, 4
+avocado crackers, breakfast, 2
+avocado crackers, lunch, 3
+avocado crackers, dinner, 3
+butter chicken, dinner, 2
+rice, lunch, 3
+rice, dinner, 3
+roast vegetables, dinner, 3
+coco pops, breakfast, 1
+tea, breakfast, 1
+tea, lunch, 1
+tea, dinner, 4
+grilled cheese sandwich, breakfast, 2
+grilled cheese sandwich, lunch, 3
+chicken nuggets, lunch, 2
+chicken nuggets, dinner, 2
+fries, lunch, 3
+fries, dinner, 1
+egg fried rice, dinner, 1
+egg fried rice, dinner, 3
+feast, dinner, 2
